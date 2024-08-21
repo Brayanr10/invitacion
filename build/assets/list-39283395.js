@@ -1,0 +1,1 @@
+import{_ as s,o as a,c,a as o,b as r,r as t}from"./app-af524dac.js";const _={},i={class:"landing-page-desktop"};function p(d,l,u,m,f,v){const e=t("nav-bar"),n=t("construction");return a(),c("div",i,[o(e,{shownavbar:!0}),r("div",null,[o(n,{title:"Cotización"})])])}const $=s(_,[["render",p]]);export{$ as default};
